@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 231px 0;
+    text-align: center;
+}
+
+.first h1 {
+    font-size: 4rem;
+    color: #212529;
+    font-weight: 700;
+}
+
+.first h3 {
+    font-size: 28px;
+    color: #212529;
+    font-style: italic;
+    margin: 10px 0 60px;
+}
+
+.first a {
+    color: #fff;
+    background-color: #1D809F;
+    font-size: 1rem;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #1D809F;
+    font-weight: 700;
+    transition: .2s;
+}
+
+.first a:hover {
+    background-color: #186279;
+    transition: 0.2s;
+}
+
+.second {
+    text-align: center;
+    padding: 110px 0;
+}
+
+.second h2 {
+    font-size: 2rem;
+    color: #212529;
+    font-weight: 700;
+}
+
+.second p {
+    font-size: 20px;
+    color: #212529;
+    font-weight: 300;
+    margin: 15px 0 65px;
+}
+
+.second .a1 {
+    color: #1D809F;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.second .a2 {
+    color: #fff;
+    background-color: #212529;
+    font-size: 1rem;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #212529;
+    font-weight: 700;
+    transition: .2s;
+}
+
+.third {
+    background-color: #1D809F;
+    padding: 100px 0;
+    overflow: hidden;
+}
+
+.third .yuxari {
+    text-align: center;
+}
+
+.third .yuxari h3 {
+    color: #ecb807;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.third .yuxari h2 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.all {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.all i {
+    font-size: 36px;
+    color: #1D809F;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 100%;
+}
+
+.box {
+    float: left;
+    width: 25%;
+}
+
+.box h2 {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #fff;
+    margin: 15px 0;
+}
+
+.box p{
+    color: #ffffffb3;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.fourth{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 220px 0;
+}
+.fourth h2{
+    color: #212529;
+    font-size: 56px;
+    font-weight: 700;
+    margin-bottom: 70px;
+}
+.fourth a{
+    color: #fff;
+    background-color: #1D809F;
+    font-size: 1rem;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #1D809F;
+    font-weight: 700;
+    transition: .2s;
+}
+.fourth a:hover{
+    background-color: #186279;
+    transition: 0.2s;
+}
+.fifth{
+    background-color: #1D809F;
+    text-align: center;
+    padding: 150px 0;
+}
+.fifth h2{
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 2.7rem;
+}
+.fifth .a1{
+    color: #212529;
+    background-color: #fff;
+    font-size: 1rem;
+    padding: 20px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #fff;
+    font-weight: 700;
+    transition: .2s;
+    margin-right: 7px;
+}
+.fifth .a1:hover{
+    background-color: rgb(206, 206, 206);
+    transition: .3s;
+    border: 1px solid rgb(206, 206, 206);
+}
+
+.fifth .a2{
+    color: #fff;
+    background-color: #212529;
+    font-size: 1rem;
+    padding: 20px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #212529;
+    font-weight: 700;
+    transition: .2s;
+    margin-left: 7px;
+}
+.fifth .a2:hover{
+    background-color: #000;
+}
+.map{
+    height: 75%;
+}
+.end{
+    text-align: center;
+    padding: 5rem 0 5rem;
+}
+.end p{
+    color: #6c757d;
+    font-size: 12.8px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+.end i{
+    background-color: #1D809F;
+    color: #fff;
+    border-radius: 100%;
+    padding: 20px;
+    font-size: 24px;
+    margin-left: 14px;
+}
