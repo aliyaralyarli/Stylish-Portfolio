@@ -130,25 +130,28 @@
     margin: 15px 0;
 }
 
-.box p{
+.box p {
     color: #ffffffb3;
     font-size: 1rem;
     font-weight: 400;
 }
-.fourth{
+
+.fourth {
     background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
     padding: 220px 0;
 }
-.fourth h2{
+
+.fourth h2 {
     color: #212529;
     font-size: 56px;
     font-weight: 700;
     margin-bottom: 70px;
 }
-.fourth a{
+
+.fourth a {
     color: #fff;
     background-color: #1D809F;
     font-size: 1rem;
@@ -160,22 +163,26 @@
     font-weight: 700;
     transition: .2s;
 }
-.fourth a:hover{
+
+.fourth a:hover {
     background-color: #186279;
     transition: 0.2s;
 }
-.fifth{
+
+.fifth {
     background-color: #1D809F;
     text-align: center;
     padding: 150px 0;
 }
-.fifth h2{
+
+.fifth h2 {
     color: #fff;
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: 2.7rem;
 }
-.fifth .a1{
+
+.fifth .a1 {
     color: #212529;
     background-color: #fff;
     font-size: 1rem;
@@ -188,13 +195,14 @@
     transition: .2s;
     margin-right: 7px;
 }
-.fifth .a1:hover{
+
+.fifth .a1:hover {
     background-color: rgb(206, 206, 206);
     transition: .3s;
     border: 1px solid rgb(206, 206, 206);
 }
 
-.fifth .a2{
+.fifth .a2 {
     color: #fff;
     background-color: #212529;
     font-size: 1rem;
@@ -207,23 +215,28 @@
     transition: .2s;
     margin-left: 7px;
 }
-.fifth .a2:hover{
+
+.fifth .a2:hover {
     background-color: #000;
 }
-.map{
+
+.map {
     height: 75%;
 }
-.end{
+
+.end {
     text-align: center;
     padding: 5rem 0 5rem;
 }
-.end p{
+
+.end p {
     color: #6c757d;
     font-size: 12.8px;
     font-weight: 400;
     margin-top: 30px;
 }
-.end i{
+
+.end i {
     background-color: #1D809F;
     color: #fff;
     border-radius: 100%;
